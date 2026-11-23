@@ -23,4 +23,4 @@ Data © Quran Foundation / KFGQPC, used under the Quran Foundation developer ter
 
 Generation 3 (2026-11-23): the V4 fonts carry hollow rectangle frames around some
 tanween/kasra (palette-14 layers); the V2 fonts have no such contour anywhere, so
-these artefacts are stripped from every glyph here. Clients fetch `?v=3`.
+these artefacts are stripped from every glyph here. Generation 4: slanted (parallelogram) frames stripped too. Clients fetch `?v=4`.
